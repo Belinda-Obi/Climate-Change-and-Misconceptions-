@@ -5,7 +5,7 @@ As my fourth(4th)  project in my "Data Suite " projects , this project visualize
 
 # Key Insights 
 
-**Dashboard Preview :** The Dashboard View gives the full view of three concepts which are the "Reality , Perception and the The Gap", that makes up this project.
+**Dashboard Preview :** The Dashboard View gives the full view of three concepts which are the "Reality" , "Perception" and  "The Gap", that makes up this project.
 
 **The Reality :** In nearly every country surveyed , a vast majority of populations (70%+) are actually willing to contribute 1% of their income to climate action.
 
